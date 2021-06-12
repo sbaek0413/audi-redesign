@@ -398,6 +398,7 @@ p {
     justify-content: space-between;
     margin: 0 20px;
     cursor: pointer;
+    z-index: -1;
   }
 
   /* show when click contents */
